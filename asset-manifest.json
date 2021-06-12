@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/SEG3525LabModule4/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/SEG3525LabModule4/static/js/main.b8d25092.chunk.js",
-    "main.js.map": "/SEG3525LabModule4/static/js/main.b8d25092.chunk.js.map",
-    "runtime-main.js": "/SEG3525LabModule4/static/js/runtime-main.14c4fab1.js",
-    "runtime-main.js.map": "/SEG3525LabModule4/static/js/runtime-main.14c4fab1.js.map",
-    "static/js/2.ac413689.chunk.js": "/SEG3525LabModule4/static/js/2.ac413689.chunk.js",
-    "static/js/2.ac413689.chunk.js.map": "/SEG3525LabModule4/static/js/2.ac413689.chunk.js.map",
-    "static/js/3.482cdf45.chunk.js": "/SEG3525LabModule4/static/js/3.482cdf45.chunk.js",
-    "static/js/3.482cdf45.chunk.js.map": "/SEG3525LabModule4/static/js/3.482cdf45.chunk.js.map",
+    "main.css": "/SEG3525LabModule4/static/css/main.2bc83f27.chunk.css",
+    "main.js": "/SEG3525LabModule4/static/js/main.70cc1c1d.chunk.js",
+    "main.js.map": "/SEG3525LabModule4/static/js/main.70cc1c1d.chunk.js.map",
+    "runtime-main.js": "/SEG3525LabModule4/static/js/runtime-main.b99903d6.js",
+    "runtime-main.js.map": "/SEG3525LabModule4/static/js/runtime-main.b99903d6.js.map",
+    "static/css/2.89258424.chunk.css": "/SEG3525LabModule4/static/css/2.89258424.chunk.css",
+    "static/js/2.b26f05f4.chunk.js": "/SEG3525LabModule4/static/js/2.b26f05f4.chunk.js",
+    "static/js/2.b26f05f4.chunk.js.map": "/SEG3525LabModule4/static/js/2.b26f05f4.chunk.js.map",
+    "static/js/3.69fe07fa.chunk.js": "/SEG3525LabModule4/static/js/3.69fe07fa.chunk.js",
+    "static/js/3.69fe07fa.chunk.js.map": "/SEG3525LabModule4/static/js/3.69fe07fa.chunk.js.map",
     "index.html": "/SEG3525LabModule4/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/SEG3525LabModule4/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.ac413689.chunk.js.LICENSE.txt": "/SEG3525LabModule4/static/js/2.ac413689.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/SEG3525LabModule4/static/media/logo.6ce24c58.svg"
+    "static/css/2.89258424.chunk.css.map": "/SEG3525LabModule4/static/css/2.89258424.chunk.css.map",
+    "static/css/main.2bc83f27.chunk.css.map": "/SEG3525LabModule4/static/css/main.2bc83f27.chunk.css.map",
+    "static/js/2.b26f05f4.chunk.js.LICENSE.txt": "/SEG3525LabModule4/static/js/2.b26f05f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.14c4fab1.js",
-    "static/js/2.ac413689.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.b8d25092.chunk.js"
+    "static/js/runtime-main.b99903d6.js",
+    "static/css/2.89258424.chunk.css",
+    "static/js/2.b26f05f4.chunk.js",
+    "static/css/main.2bc83f27.chunk.css",
+    "static/js/main.70cc1c1d.chunk.js"
   ]
 }
