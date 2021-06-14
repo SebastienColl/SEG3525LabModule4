@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/SEG3525LabModule4/static/css/main.0a039465.chunk.css",
-    "main.js": "/SEG3525LabModule4/static/js/main.03787dcb.chunk.js",
-    "main.js.map": "/SEG3525LabModule4/static/js/main.03787dcb.chunk.js.map",
+    "main.css": "/SEG3525LabModule4/static/css/main.2eb04d4c.chunk.css",
+    "main.js": "/SEG3525LabModule4/static/js/main.b9218a59.chunk.js",
+    "main.js.map": "/SEG3525LabModule4/static/js/main.b9218a59.chunk.js.map",
     "runtime-main.js": "/SEG3525LabModule4/static/js/runtime-main.f2023ae9.js",
     "runtime-main.js.map": "/SEG3525LabModule4/static/js/runtime-main.f2023ae9.js.map",
     "static/css/2.89258424.chunk.css": "/SEG3525LabModule4/static/css/2.89258424.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.0b9ed5fd.chunk.js.map": "/SEG3525LabModule4/static/js/3.0b9ed5fd.chunk.js.map",
     "index.html": "/SEG3525LabModule4/index.html",
     "static/css/2.89258424.chunk.css.map": "/SEG3525LabModule4/static/css/2.89258424.chunk.css.map",
-    "static/css/main.0a039465.chunk.css.map": "/SEG3525LabModule4/static/css/main.0a039465.chunk.css.map",
+    "static/css/main.2eb04d4c.chunk.css.map": "/SEG3525LabModule4/static/css/main.2eb04d4c.chunk.css.map",
     "static/js/2.949a4ef8.chunk.js.LICENSE.txt": "/SEG3525LabModule4/static/js/2.949a4ef8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f2023ae9.js",
     "static/css/2.89258424.chunk.css",
     "static/js/2.949a4ef8.chunk.js",
-    "static/css/main.0a039465.chunk.css",
-    "static/js/main.03787dcb.chunk.js"
+    "static/css/main.2eb04d4c.chunk.css",
+    "static/js/main.b9218a59.chunk.js"
   ]
 }
